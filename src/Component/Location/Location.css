@@ -1,0 +1,45 @@
+.location h1{
+    font-weight: 800;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.095em;
+color: #4737FF;
+background: none;
+}
+.location .heading{
+    font-weight: 800;
+  font-size: 48px;
+  color: #151D21;
+  text-align: center;
+
+}
+.location .heading-data{
+    font-weight: 400;
+font-size: 18px;
+text-align: center;
+font-feature-settings: 'liga' off;
+color: #18191F;
+
+}
+.base{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+
+}
+.decription{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dec-icon{
+    background: #EFF2F6;
+    font-size: 30px;
+    border-radius: 50%
+}
+.decription div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
